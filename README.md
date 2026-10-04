@@ -1,7 +1,7 @@
 (15 mins) N8N setup and walkthrough
 (45 mins) Build first AI Agent
 Agent instructions: Look at my events/meetings for the day and send me an email to vivekideapad12@gmail.com on the top two most important events of the day and tell me why. Look at the event title, description, attendees to find this out.
-For formatted email: Look at my events/meetings for the day and send me a nicely formatted HTML email to aravindbharathykk@gmail.com on the top two most important events of the day and tell me why. Look at the event title, description, attendees to find this out.
+For formatted email: Look at my events/meetings for the day and send me a nicely formatted HTML email to vivekideapad12@gmail.com on the top two most important events of the day and tell me why. Look at the event title, description, attendees to find this out.
 Model: Ministral 8b latest\ Open AI OSS 120B
 Tools: GMail, Google Calendar
 (40 mins) Build MCP Server and Client
